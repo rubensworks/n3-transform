@@ -6,7 +6,7 @@ This module does one thing only: transforming an RDF stream in one format to ano
 ## Install
 
 ```bash
-npm install n3-transform
+npm install -g n3-transform
 ```
 
 ## Usage
