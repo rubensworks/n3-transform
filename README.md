@@ -19,7 +19,7 @@ The input (`-i`) and output (`-o`) format parameters are optional, and will defa
 The other allowed format values are: turtle, trig, ntriples or nquads.
 
 ## License
-Components.js is written by [Ruben Taelman](http://www.rubensworks.net/).
+N3-Transform is written by [Ruben Taelman](http://www.rubensworks.net/).
 
 This code is copyrighted by [Ghent University – imec](http://idlab.ugent.be/)
 and released under the [MIT license](http://opensource.org/licenses/MIT).
