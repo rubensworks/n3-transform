@@ -1,5 +1,5 @@
 # N3-Transform
-[![npm version](https://badge.fury.io/js/n3-transform.svg)](https://www.npmjs.com/package/n3-transform)
+[![npm version](https://badge.fury.io/js/n3-transform.svg)](https://www.npmjs.com/package/n3-transform) [![Greenkeeper badge](https://badges.greenkeeper.io/rubensworks/n3-transform.svg)](https://greenkeeper.io/)
 
 This module does one thing only: transforming an RDF stream in one format to another format using UNIX streams.
 
