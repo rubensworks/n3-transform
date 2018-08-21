@@ -12,8 +12,8 @@
   "author": "Ruben Taelman <ruben.taelman@ugent.be>",
   "license": "MIT",
   "dependencies": {
-    "n3": "^0.10.0",
-    "parameters": "^0.1.6"
+    "n3": "^0.11.3",
+    "parameters": "^0.4.3"
   },
   "keywords": [
     "rdf",
