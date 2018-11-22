@@ -12,11 +12,15 @@ npm install -g n3-transform
 ## Usage
 
 ```bash
-cat some-file.ttl | n3-transform -i turtle -o nquads
+cat some-file.ttl | n3-transform -i turtle -o nquads -p prefixes_example.json
 ```
 
-The input (`-i`) and output (`-o`) format parameters are optional, and will default to turtle.
+All parameters are optional.
+The input (`-i`) and output (`-o`) format parameters will default to turtle.
 The other allowed format values are: turtle, trig, ntriples or nquads.
+The prefixes (`-p`) parameter takes the path of a JSON file with prefixes that are used for the formats turtle and trig.
+An example of such a file can be found in `prefixes_example.json`.
+
 
 ## License
 N3-Transform is written by [Ruben Taelman](http://www.rubensworks.net/).

@@ -1,0 +1,11 @@
+{
+  "r2rml": "http://www.w3.org/ns/r2rml#",
+  "dbo": "http://dbpedia.org/ontology/",
+  "schema": "http://schema.org/",
+  "foaf": "http://xmlns.com/foaf/0.1/",
+  "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#",
+  "fnml": "http://semweb.mmlab.be/ns/fnml#",
+  "rml": "http://semweb.mmlab.be/ns/rml#",
+  "fno": "http://w3id.org/function/ontology#",
+  "dbf": "http://dbpedia.org/function/"
+}
