@@ -7,13 +7,16 @@
     "n3-transform": "./index.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "version": "manual-git-changelog onversion"
   },
   "author": "Ruben Taelman <ruben.taelman@ugent.be>",
   "license": "MIT",
   "dependencies": {
     "n3": "^0.10.0",
     "parameters": "^0.1.6"
+  },
+  "devDependencies": {
+    "manual-git-changelog": "^1.0.1"
   },
   "keywords": [
     "rdf",
