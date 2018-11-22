@@ -12,7 +12,8 @@ npm install -g n3-transform
 ## Usage
 
 ```bash
-cat some-file.ttl | n3-transform -i turtle -o nquads -p prefixes_example.json
+cat some-file.ttl | n3-transform -i turtle -o nquads
+cat some-file.ttl | n3-transform -i turtle -o trig -p prefixes_example.json
 ```
 
 All parameters are optional.
