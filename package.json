@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "n3": "^0.11.0",
-    "parameters": "^0.1.6"
+    "parameters": "^0.7.0"
   },
   "devDependencies": {
     "manual-git-changelog": "^1.0.1"
